@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omer-ayhan
 - 👀 I’m interested in Machine Learning & Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me om.ayhan247@gmail.com
 
