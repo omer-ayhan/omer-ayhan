@@ -80,7 +80,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.sanity.io/images/599r6htc/production/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="figma" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.png" alt="adobeXD" width="30" height="30"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a>
-<a href="https://zoom.us/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/06/Zoom-icon.png" alt="zoom" width="30" height="30"/> </a>
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 <a href="https://todoist.com/" target="_blank"> <img src="https://ericsammons.com/wp-content/uploads/2021/02/todoist-logo.png" alt="todoist" width="30" height="30"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" alt="atlassian" width="50" height="30"/> </a>
+<a href="https://zoom.us/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/06/Zoom-icon.png" alt="zoom" width="50" height="30"/> </a>
