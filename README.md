@@ -3,6 +3,8 @@
 
 <div align="center"><img src="https://c.tenor.com/nrrBWGnDMU0AAAAC/homework-jim-carrey.gif" width="400" height="230"  /> </div>
 
+- 📫 You can mail me at [om.ayhan247@gmail.com](mailto:om.ayhan247@gmail.com)
+
 &nbsp;
 
 # My Stats 📈
@@ -48,11 +50,14 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="30" height="30"/> </a>
 <a href="https://vercel.com/" target="_blank"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="30" height="30"/> </a>
-&nbsp;
-
-<!-- # Technologies I am learning/planning to learn 🧮
 
 &nbsp;
+
+# Technologies I am learning/planning to learn 🧮
+
+&nbsp;
+
+<!--
 
 # Tools I am using 🧰
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
