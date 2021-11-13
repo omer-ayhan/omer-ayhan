@@ -18,7 +18,7 @@
 </p>
 &nbsp;
 
-# You can contact me on 📮
+# You can contact me on 📫
 
 <p align="left">
 <a href="https://www.linkedin.com/in/omer-ayhan72/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cengizcmataraci" height="30" width="30" /></a>
@@ -36,7 +36,7 @@
 <a href="https://jupyter.org/" target="_blank"> <img src="https://legacy.jupyterbook.org/images/logo/logo.png" alt="jupyter-notebook" width="30" height="30"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="30" height="30"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" alt="react-native" width="33" height="30"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" alt="react-native" width="30" height="30"/> </a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="33" height="30"/> </a>
 <a href="https://material-ui.com/" target="_blank"> <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="material-ui" width="26" height="26"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
@@ -54,6 +54,20 @@
 &nbsp;
 
 # Technologies I am learning/planning to learn 🧮
+
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="30" height="30"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="33" height="30"/> </a>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" alt="nodeJS" width="30" height="30"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
+<a href="https://jestjs.io/" target="_blank"> <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest" width="30" height="30"/> </a>
+<a href="https://golang.org/" target="_blank"> <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" alt="golang" width="25" height="30"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.png" alt="rust" width="30" height="30"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" alt="react-native" width="30" height="30"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-goog/events/1_ilC2Aqp5sZd1wi0CopD1Hw.png" alt="flutter" width="30" height="30"/> </a>
+<a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="30" height="30"/> </a>
+<a href="https://ant.design/docs/react/introduce" target="_blank"> <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design-react" width="30" height="30"/> </a>
+<a href="https://www.electronjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" alt="ant-design-react" width="30" height="30"/> </a>
 
 &nbsp;
 
