@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @omer-ayhan
-- 👀 I’m interested in Machine Learning & Web Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me om.ayhan247@gmail.com
+<h1 align="center">Hi 👋, I'm Ömer</h1>
+<h2 align="center">A Web Developer from Turkey 🇹🇷</h2>
 
-<!---
-omer-ayhan/omer-ayhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Stats 📈
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omer-ayhan&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="omer-ayhan" /></a></p>
+<p align="center">
+	<a href="https://github.com/rbeyzas">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=omer-ayhan&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="omer-ayhan"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-ayhan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="omer-ayhan"/>
+	</a>
+</p>
