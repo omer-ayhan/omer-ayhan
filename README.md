@@ -71,16 +71,16 @@
 
 &nbsp;
 
-<!--
-
 # Tools I am using 🧰
+
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
-<a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a>
-<a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
-<a href="https://asana.com" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/asana-logo-logo.png" alt="asana" width="37" height="27"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
-<a href="https://www.jetbrains.com/ruby/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" alt="rubymine" width="30" height="30"/> </a>
+<a href="https://git-scm.com/downloads" target="_blank"> <img src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" alt="gitbash" width="30" height="30"/> </a>
+<a href="https://vercel.com/" target="_blank"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="30" height="30"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.sanity.io/images/599r6htc/production/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="figma" width="30" height="30"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.png" alt="adobeXD" width="30" height="30"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a>
-<a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a> -->
+<a href="https://zoom.us/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/06/Zoom-icon.png" alt="zoom" width="30" height="30"/> </a>
+<a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
+<a href="https://todoist.com/" target="_blank"> <img src="https://ericsammons.com/wp-content/uploads/2021/02/todoist-logo.png" alt="todoist" width="30" height="30"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" alt="atlassian" width="50" height="30"/> </a>
