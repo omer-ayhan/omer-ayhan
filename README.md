@@ -3,7 +3,7 @@
 
 <div align="center"><img src="https://c.tenor.com/nrrBWGnDMU0AAAAC/homework-jim-carrey.gif" width="400" height="230"  /> </div>
 
-- I am currently learning **React, React Native, Next.js and PHP**
+- I am currently learning **TypeScript, React Native, Next.js and Django**
 - 📫 You can mail me at [om.ayhan247@gmail.com](mailto:om.ayhan247@gmail.com)
 
 &nbsp;
